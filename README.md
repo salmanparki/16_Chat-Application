@@ -27,3 +27,6 @@ Additionally, it uses the dummy.current.scrollIntoView method to scroll to the b
 Every message in the chat is rendered using the ChatMessage component. 
 
 It applies the proper styling and determines if the message was delivered or received using the messageClass variable.
+
+    https://chatting-boost.netlify.app/
+“Use the above link to access the application
